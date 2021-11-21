@@ -7,12 +7,6 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "sleep",
-      "day": "today",
-      "reminder": true
-    },
-    {
       "id": 3,
       "text": "secret santa",
       "day": "today",
